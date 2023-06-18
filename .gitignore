@@ -1,0 +1,2 @@
+node_modules/
+.envgit remote add origin https://github.com/jesseinvent/node-mongo-graphql.git
